@@ -1,5 +1,11 @@
 'use strict';
 
+
+function Getmsg(){
+  alert(`This is our work sample. For more, visit our website: https://ipgeniustech.com/`);
+
+}
+
 /**
  * navbar toggle
  */

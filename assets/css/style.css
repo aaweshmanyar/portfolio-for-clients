@@ -1162,6 +1162,8 @@ body { background: var(--white); }
   max-width: 1200px; /* Optional: Set a max width for the container */
 }
 
+
+
 .card {
   margin: 15px; /* Space between cards */
   width: calc(25% - 30px); /* Set card width to 1/4 of the container minus margins */
